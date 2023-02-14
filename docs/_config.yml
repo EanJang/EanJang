@@ -30,7 +30,8 @@ url: https://devev01.github.io  # the base hostname and protocol for your site, 
 baseurl: /docs  
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: CloudCannon/vonge-jekyll-bookshop-template
 plugins:
   - jekyll-feed
 
